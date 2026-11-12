@@ -1,33 +1,6 @@
-## Hi there 👋
+# Devieester
 
-I’m Devieester, a backend developer and AI engineer focused on building intelligent systems, backend services, and practical developer tools.
-
-My work blends Python APIs, AI agents, retrieval-augmented generation (RAG), and modern app development. I enjoy turning ideas into working products — from backend architecture to AI workflows and user-facing experiences.
-
-### Core focus
-- Python, FastAPI, REST APIs, backend architecture
-- AI agents, LangChain, LangGraph, RAG, vector search
-- MCP workflows and agent tooling
-- Flutter/Dart app development and clean architecture
-- Full-stack and product-oriented experimentation
-
-### Featured projects
-
-- [Agentic-AI-Course](https://github.com/dev-vieester/Agentic-AI-Course) — Hands-on learning and experiments around agentic AI concepts.
-- [ai_agent_with_rag_on_fastapi_and_pgvector](https://github.com/dev-vieester/ai_agent_with_rag_on_fastapi_and_pgvector) — AI agent backed by FastAPI and pgvector for RAG-based retrieval.
-- [IvyGPT](https://github.com/dev-vieester/IvyGPT) — AI-powered assistant/project exploring generative AI workflows.
-- [ivy-agent-with-rag-system](https://github.com/dev-vieester/ivy-agent-with-rag-system) — Agent system combining retrieval, memory, and orchestration.
-- [LangGraph-Practice](https://github.com/dev-vieester/LangGraph-Practice) — Practice projects and experiments with LangGraph.
-- [LangGraph-Project](https://github.com/dev-vieester/LangGraph-Project) — Applied LangGraph project for agent workflows.
-- [mcp_practice](https://github.com/dev-vieester/mcp_practice) — Experiments with MCP (Model Context Protocol) patterns.
-- [MCP_practice_2](https://github.com/dev-vieester/MCP_practice_2) — Additional MCP learning and implementation work.
-- [documents_loader](https://github.com/dev-vieester/documents_loader) — Document ingestion and retrieval pipeline work.
-- [music-app-api](https://github.com/dev-vieester/music-app-api) — Backend API project for music-related functionality.
-- [Exclusive_mart](https://github.com/dev-vieester/Exclusive_mart) — E-commerce platform project.
-- [electronic_ecommerce](https://github.com/dev-vieester/electronic_ecommerce) — Flutter/Dart e-commerce app.
-- [blog_post_using_clean_architecture](https://github.com/dev-vieester/blog_post_using_clean_architecture) — Clean architecture learning and implementation sample.
-
-### Tech stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -36,17 +9,73 @@ My work blends Python APIs, AI agents, retrieval-augmented generation (RAG), and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5A67D8?style=for-the-badge)
 
-### Current interests
+</div>
+
+> Backend Developer & AI Engineer building Python APIs, intelligent agents, and developer tools with FastAPI, LangGraph, and MCP.
+
+## About Me
+
+I’m Devieester, a backend-focused developer and AI engineer building practical systems that combine clean architecture, scalable APIs, and intelligent automation.
+
+My work centers around:
+- Python backend development with FastAPI
+- AI agent architectures and orchestration
+- RAG and retrieval-based workflows
+- Model Context Protocol (MCP) integrations
+- Developer tools and product-oriented experimentation
+- Cross-platform app work with Flutter and Dart
+
+## What I Build
+
+I enjoy taking ideas from concept to working product. This includes:
+- REST APIs and backend services
+- Agentic workflows and LLM-powered tools
+- Retrieval-augmented generation systems
+- Database-backed application architecture
+- Full-stack and product prototypes
+
+## Core Stack
+
+- Python
+- FastAPI
+- LangChain
+- LangGraph
+- PostgreSQL
+- pgvector
+- Flutter / Dart
+- C++ (for systems and tooling experiments)
+- APIs, architecture, and AI workflow design
+
+## Featured Projects
+
+- [Agentic-AI-Course](https://github.com/dev-vieester/Agentic-AI-Course) — Hands-on learning and experiments around agentic AI concepts.
+- [ai_agent_with_rag_on_fastapi_and_pgvector](https://github.com/dev-vieester/ai_agent_with_rag_on_fastapi_and_pgvector) — AI agent built with FastAPI and pgvector for retrieval-powered workflows.
+- [IvyGPT](https://github.com/dev-vieester/IvyGPT) — Generative AI assistant project exploring practical LLM application patterns.
+- [ivy-agent-with-rag-system](https://github.com/dev-vieester/ivy-agent-with-rag-system) — Agent system combining retrieval, memory, and orchestration.
+- [LangGraph-Practice](https://github.com/dev-vieester/LangGraph-Practice) — Practice and experiments with LangGraph.
+- [LangGraph-Project](https://github.com/dev-vieester/LangGraph-Project) — Applied LangGraph workflows for real-world agent systems.
+- [mcp_practice](https://github.com/dev-vieester/mcp_practice) — Experiments with MCP patterns and tool integration.
+- [MCP_practice_2](https://github.com/dev-vieester/MCP_practice_2) — Additional MCP-focused learning and implementation.
+- [documents_loader](https://github.com/dev-vieester/documents_loader) — Document ingestion and retrieval workflow experiments.
+- [music-app-api](https://github.com/dev-vieester/music-app-api) — Backend API project for music-related features.
+- [Exclusive_mart](https://github.com/dev-vieester/Exclusive_mart) — E-commerce platform project.
+- [electronic_ecommerce](https://github.com/dev-vieester/electronic_ecommerce) — Flutter/Dart e-commerce app.
+- [blog_post_using_clean_architecture](https://github.com/dev-vieester/blog_post_using_clean_architecture) — Clean architecture learning and implementation sample.
+
+## Current Interests
+
 - Building AI-powered backend systems
-- Improving RAG pipelines and LLM app architectures
-- Creating practical tools and software that solve real problems
+- Improving RAG pipelines and LLM app architecture
+- Designing practical developer tools and software products
 - Exploring workflow automation and agent orchestration
+- Combining backend engineering with AI experiences
 
-### Let’s connect
+## Connect
+
 - GitHub: [@dev-vieester](https://github.com/dev-vieester)
-- Always open to collaboration, learning, and building meaningful tech.
+- Open to collaboration, learning, and building meaningful software.
 
 ```text
 I build software with code, curiosity, and a strong interest in AI-driven products.
